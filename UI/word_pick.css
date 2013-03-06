@@ -1,0 +1,67 @@
+html {
+    background-color: white;
+}
+
+body {
+	font-family: PT sans;
+}
+
+#total_div {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	text-align: center;
+}
+
+#title_div {
+	margin-top: 70px;
+	font-size: 30pt;
+	color: #54ABF7;
+}
+
+#picker_div {
+	margin-top: 30px;
+	padding-top: 5px;
+	font-size: 20pt;
+}
+
+span#word {
+	
+}
+
+span#pos {
+	font-style: italic;
+	color: gray;
+}
+
+#rank_div {
+	padding-top: 100px;
+	color: #005FB3;
+}
+
+button#happy {
+	padding-right: 10px;
+	font-family: Wingdings;
+	font-size: 24pt;
+	background: none;
+	border: none;
+	padding-bottom: 5px;
+}
+
+button#sad {
+	padding-left: 10px;
+	font-family: Wingdings;
+	font-size: 24pt;
+	background: none;
+	border: none;
+}
+
+button#happy:hover {
+	color: gray;
+	cursor: pointer;
+}
+
+button#sad:hover {
+	color: gray;
+	cursor: pointer;
+}
